@@ -1,2 +1,2 @@
-# -telmosolutions-react-frontend-assessment
+# telmosolutions-react-frontend-assessment
 FrontEnd Assessment
